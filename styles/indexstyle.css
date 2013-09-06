@@ -120,3 +120,18 @@
 }
 
 /*纯色色块结束*/
+
+
+/*services start*/
+.serv_container{
+	width: 80%;
+	height: 90%;
+	padding: 60px 0;
+	margin: 0 auto;
+}
+
+.serv_container h1{
+	font-size: 3.5rem;
+	text-align: center;
+}
+

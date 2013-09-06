@@ -5,6 +5,7 @@
 #mainnav{
    position: relative;
 }
+
 #navlist{
 	border-top: none;
 }
@@ -19,7 +20,6 @@
    width: 100%;
    height: 100%;
 }
-
 .nav {  
    position: relative;  
    min-height: 40px;  
