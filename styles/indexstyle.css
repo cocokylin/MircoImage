@@ -135,3 +135,62 @@
 	text-align: center;
 }
 
+.servlist{
+	width: 80%;
+	height: 80%;
+	margin: 0px auto;
+	padding: 8% 0px;
+	font-size: 1.5rem;
+}
+
+.camera{
+	width: 33%;
+	float: left;
+}
+
+.camera ul{
+	margin:0px auto;
+	padding: 30px 0px;
+}
+.camera ul>li {
+	list-style:url(../images/yes.png);
+	line-height: 40px;
+	list-style-position: inside;
+}
+
+.computer{
+	width: 34%;
+	float: left;
+	text-align: center;
+}
+
+.computer ul{
+	margin:0px auto;
+	padding: 30px 0px 0px 28%;
+	text-align: left;
+}
+
+.computer ul>li{
+	list-style:url(../images/yes.png);
+	line-height: 40px;
+	list-style-position: inside;
+}
+
+
+.right{
+	width: 33%;
+	float: left;
+	text-align: right;
+}
+
+.right ul{
+	margin:0px auto;
+	padding: 30px 0px 0px 53%;
+	text-align: left;
+}
+
+.right ul>li{
+	list-style:url(../images/yes.png);
+	line-height: 40px;
+	list-style-position: inside;
+}
